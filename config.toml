@@ -1,5 +1,5 @@
-#baseurl = "http://ehdev.github.io"
-baseurl = "http://eliashussen.com"
+#baseurl = "https://ehdev.github.io"
+baseurl = "https://eliashussen.com"
 title = "elias hussen - Machine Learning and Data Engineering Portfolio"
 theme = "hugo-coder"
 languagecode = "en"
