@@ -15,7 +15,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Elias Hussen"
-    info = "Machine Learning and Data Engineering"
+    info = "Machine Learning and Data Engineering Portfolio"
     description = "elias' portfolio site"
     keywords = "ml, machine learning, data engineering, elite, data engineer, machine learning engineer, data science, data scientist, analytics, analyst"
     avatarurl = "images/elias-tsh.jpg"
