@@ -1,29 +1,34 @@
-baseurl = "https://eliashussen.com"
-title = "elias hussen"
-theme = "hugo-coder"
-languagecode = "en"
+baseurl = "https://eliashussen.com/"
+title = "Hi I am Elias"
+theme = "hugo-vitae"
+languagecode = "en-us"
 defaultcontentlanguage = "en"
+
 
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "native"
+pygmentsstyle = "colorful"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+enableRobotsTXT = true
 
-disqusShortname = "yourdiscussshortname"
+googleAnalytics = ""
+disqusShortname = ""
 
 [params]
     author = "Elias Hussen"
-    info = "Machine Learning and Data Engineering Portfolio"
-    description = "elias' portfolio site"
-    keywords = "ml, machine learning, data engineering, elite, data engineer, machine learning engineer, data science, data scientist, analytics, analyst"
-    avatarurl = "images/elias-tsh.jpg"
+    pagetitle = "Welcome"
+    subtitle = "I write about Machine Learning in production, Data Engineering pipelines, AI and data centric startups and topics about personal growth & philosophy"
+
+    keywords = ["ml", "machine learning", "data engineering", "data engineer", "machine learning engineer", "data science", "data scientist", "analytics", "analyst", "ai", "nlp", "big data", "nlp", "transformers", "BERT", "DistilBERT", "ehussen", "saas", "freelancer", "freelance", "data architect", "solo founder"]
+    avatar = "/images/elias-tsh.jpg"
+    mainSections = ["about", "posts"]
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Copyright Elias Hussen 2019"
+    footercontent = "Copyright Elias Hussen 2020"
 
     hidecredits = true
     hidecopyright = false
@@ -31,12 +36,13 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    custom_css = ["/css/custom.css"]
 
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
+
 
 [[params.social]]
     name = "Github"
@@ -59,30 +65,34 @@ disqusShortname = "yourdiscussshortname"
     weight = 5
     url = "https://medium.com/@ehussen"
 
-[languages]
-    [languages.en]
-        languagename = "English"
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 
-        [languages.en.menu]
+[[menu.main]]
+name = "All Posts"
+url = "/posts/"
+weight = 2
 
-            [[languages.en.menu.main]]
-            name = "About"
-            weight = 1
-            url = "about/"
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 3
 
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
+[[menu.main]]
+name = "Resume"
+weight = 4
+url = "/resume/"
 
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3
-            url = "projects/"
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 5
 
-            [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 5
-            url = "contact/"
-
+[[menu.main]]
+name = "Contact Me"
+url = "/contact/"
+weight = 5
 
