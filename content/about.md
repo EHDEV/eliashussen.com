@@ -3,10 +3,7 @@ title = "About Hugo"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
-
-
-It makes use of a variety of open source projects including:
+I am a. I am a senior programmer with good knowledge of front-end techniques. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also I like working in a team, you'll learn faster and much more. As the saying goes: 'two heads are better than one'.
 
 * [Cobra](https://github.com/spf13/cobra)
 * [Viper](https://github.com/spf13/viper)

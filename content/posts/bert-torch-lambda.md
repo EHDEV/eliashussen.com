@@ -1,6 +1,6 @@
 ---
-title: "Deployed a Finetuned BERT Text Classifier with AWS Lambda"
-date: 2020-05-19T12:30:14+03:00
-draft: false
+title: "Finetuning BERT for Sequence Classification and Deploying It as a REST API with AWS Lambda and API Gateway "
+date: 2020-05-25T12:30:14+03:00
+draft: true
 ---
 

@@ -30,8 +30,8 @@ disqusShortname = ""
 
     footercontent = "Copyright Elias Hussen 2020"
 
-    hidecredits = true
-    hidecopyright = false
+    hidecredits = false
+    hidecopyright = false 
 
     rtl = false
 
@@ -42,7 +42,6 @@ disqusShortname = ""
   category = "categories"
   series = "series"
   tag = "tags"
-
 
 [[params.social]]
     name = "Github"
