@@ -19,7 +19,7 @@ disqusShortname = ""
 [params]
     author = "Elias Hussen"
     pagetitle = "Welcome"
-    subtitle = "I write about Machine Learning in production, Data Engineering pipelines, AI and data centric startups and topics about personal growth & philosophy"
+    subtitle = "I write about Machine Learning in production; Data Warehousing and ETL pipelines; AI and data centric products; startups; books; philosophy and personal growth"
 
     keywords = ["ml", "machine learning", "data engineering", "data engineer", "machine learning engineer", "data science", "data scientist", "analytics", "analyst", "ai", "nlp", "big data", "nlp", "transformers", "BERT", "DistilBERT", "ehussen", "saas", "freelancer", "freelance", "data architect", "solo founder"]
     avatar = "/images/elias-tsh.jpg"
@@ -91,7 +91,13 @@ url = "/about/"
 weight = 5
 
 [[menu.main]]
-name = "Contact Me"
+name = "Contact"
 url = "/contact/"
-weight = 5
+weight = 6
+
+[[menu.main]]
+name = "Subscribe"
+url = "/subscribe/"
+weight = 7
+
 

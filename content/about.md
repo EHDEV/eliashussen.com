@@ -1,26 +1,15 @@
 +++
-title = "About Hugo"
+title = "About Me"
 slug = "about"
 +++
 
-I am a. I am a senior programmer with good knowledge of front-end techniques. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also I like working in a team, you'll learn faster and much more. As the saying goes: 'two heads are better than one'.
+I started my tech career in Ethiopia when I was hired as a Software Test Engineer at a startup in Addis Ababa. A year later I moved to the US to continue my education in software engineering. I completed my bachelors in Information Systems from CUNY Baruch and began working as a data warehouse / production support engineer. Later on I continued my career in tech as a senior data engineer at a number of companies in tech, media and finance.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+I am currently working on starting up a company called Elite Data Labs, that builds AI applications, consults and trains professionals in Machine Learning and Data Engineering. 
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+I’m also building a text analytics api api.xitext.com that will be under the company, Elite Data Labs. The api will enable anyone to send a piece of text and get the text classified for sentiment, topic, etc and will extract named entities, key phrases, etc
 
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+I have built and worked on a number of advanced data projects from simple ETL applications to advanced Machine Learning pipelines. 
+- Lead prospect prediction api
+- Topic classification model for VICE Media news articles
+- VICE Media’s Data Warehouse and ETL Pipelines
