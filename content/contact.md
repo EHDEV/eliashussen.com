@@ -5,19 +5,19 @@ slug = "contact"
 
 Follow me:
 
-_[@ehussen](https://twitter.com/ehussen) on Twitter_
+[@ehussen](https://twitter.com/ehussen) on Twitter
 
-_[@ehdev](https://github.com/ehdev) on GitHub_
+[@ehdev](https://github.com/ehdev) on GitHub
 
-_[Elias Hussen](https://linkedin.com/in/ehussen) on LinkedIn_
+[Elias Hussen](https://linkedin.com/in/ehussen) on LinkedIn
 
 ---
 
-Email me:
+Email me at:
 
-_[@ehussen](mailto:ehussen@gmail.com) at gmail_
+[ehussen@gmail.com](mailto:ehussen@gmail.com) 
 
-_[@elias](mailto:elias@elitedatalabs.com) at elitedatalabs.com_
+[elias@elitedatalabs.com](mailto:elias@elitedatalabs.com) 
 
 ---
 

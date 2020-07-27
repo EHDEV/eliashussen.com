@@ -95,9 +95,5 @@ name = "Contact"
 url = "/contact/"
 weight = 6
 
-[[menu.main]]
-name = "Subscribe"
-url = "/subscribe/"
-weight = 7
 
 
